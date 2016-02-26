@@ -3,15 +3,15 @@ layout: page
 title: Contribute
 permalink: /contribute/
 ---
-This site is for the collaborative development of the Federal Identity, Credential and Access Management PIV Enablement Playbook. 
+This site is for the collaborative development of the Federal Identity, Credential and Access Management PIV Enablement Playbook.
 
 #### How to Contribute
 
 Thank you for considering contributing to our development of open and transparent FICAM guidance documents. If you're unsure of anything, just ask or submit edits through an issue or pull request. We appreciate any sort of contribution and are committed to transparency and collaboration.
 
-The source repository exists [here]({{site.github.repository_url}}/{{site.branch}}/).
+The source repository exists [here]({{site.github.repository_url}}/tree/{{ site.branch }}).
 
-We encourage you to read our [LICENSE]({{site.baseurl}}/license) and our [README]({{site.github.repository_url}}/{{site.branch}}/README.md), which exist within this repository.  
+We encourage you to read our [LICENSE]({{site.baseurl}}/license/) and our [README]({{site.github.repository_url}}/tree/{{ site.branch }}/README.md), which exist within this repository.  
 
 We welcome contributions to the FICAM Playbooks in the form of requests, issues and pages:  
 
