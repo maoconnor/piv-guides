@@ -1,3 +1,8 @@
+---
+layout: page
+title: License
+permalink: /License/
+---
 This project is in the
 public domain within the United States.
 
